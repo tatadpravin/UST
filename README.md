@@ -1,0 +1,2 @@
+# UST
+Universal solution token
